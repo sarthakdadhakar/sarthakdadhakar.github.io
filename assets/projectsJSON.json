@@ -1,0 +1,42 @@
+{
+    "projects":[
+        {
+            "title":"Dyscalculia Detection Using Machine Learning",
+            "technologies":"Technnologies Used: Python, Scikit-learn, Flask, Angular",
+            "description": ["Developed an AI based system to assist doctors in detection of dyscalculia, a learning disability.",
+                "Collaborated with Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital.",
+                "Developed a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy."]
+        },
+        {
+            "title":"Meetify",
+            "technologies":"Technnologies Used: IBM-Watson, Android",
+            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
+                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+        },
+        {
+            "title":"3",
+            "technologies":"Technnologies Used: Python, Scikit-learn, Flask, Angular",
+            "description": ["Developed an AI based system to assist doctors in detection of dyscalculia, a learning disability.",
+                "Collaborated with Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital.",
+                "Developed a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy."]
+        },
+        {
+            "title":"4",
+            "technologies":"Technnologies Used: IBM-Watson, Android",
+            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
+                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+        },
+        {
+            "title":"5",
+            "technologies":"Technnologies Used: IBM-Watson, Android",
+            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
+                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+        },
+        {
+            "title":"5",
+            "technologies":"Technnologies Used: IBM-Watson, Android",
+            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
+                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "education":[
+
+        {
+            "name":"University of Southern Califronia",
+            "course":"Master of Science - Computer Science",
+            "logo": "../../../assets/USC.png",
+            "grade": "GPA: 3.35/4"
+        },
+        {
+            "name":"Vivekanand Education Society's Institute of Technology",
+            "course":"Bachelor of Engineering - Computer Engineering",
+            "logo": "../../../assets/VESIT.png",
+            "grade": "CGPI: 9.47/10"
+        },
+	{
+            "name":"Government Polytechnic Mumbai",
+            "course":"Diploma in Computer Engineering",
+            "logo": "../../../assets/GPM.png",
+            "grade": "Aggregate Percentage: 92.96%"
+        }
+    ]
+        
+
+}
