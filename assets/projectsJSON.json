@@ -5,38 +5,42 @@
             "technologies":"Technnologies Used: Python, Scikit-learn, Flask, Angular",
             "description": ["Developed an AI based system to assist doctors in detection of dyscalculia, a learning disability.",
                 "Collaborated with Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital.",
-                "Developed a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy."]
+                "Developed a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy."],
+            "link": "https://doi.org/10.1007/978-3-030-34869-4_13"
         },
         {
             "title":"Meetify",
             "technologies":"Technnologies Used: IBM-Watson, Android",
             "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
-                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."],
+            "link": "https://github.com/sarthakdadhakar/CampusConnect-KJ"
         },
         {
-            "title":"3",
-            "technologies":"Technnologies Used: Python, Scikit-learn, Flask, Angular",
-            "description": ["Developed an AI based system to assist doctors in detection of dyscalculia, a learning disability.",
-                "Collaborated with Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital.",
-                "Developed a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy."]
+            "title":"Dialog Act Tagger for Sequence Labelling",
+            "technologies":"Technnologies Used: Python, PyCRF suite",
+            "description": ["Implemented a n-gram based Conditional Random Field model to predict the dialog act tag on Switchboard SWBD-DAMSL data which consists of telephone conversations.",
+                "Researched several papers and annotation manual to implement the dialog tagger to achieve 78% accuracy."],
+                "link": "https://github.com/sarthakdadhakar/CSCI-544-Applied-NLP"
         },
         {
-            "title":"4",
-            "technologies":"Technnologies Used: IBM-Watson, Android",
-            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
-                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+            "title":"Robotic Arm Simulation",
+            "technologies":"Technnologies Used: Tensorflow, Unreal Engine 4",
+            "description": ["Developed an object detection module using Tensorflow for Robotic Arm Simulation in Unreal Engine 4 to train a neural network to use a robotic arm and grab objects of interest."],
+            "link": "https://github.com/sarthakdadhakar/"
         },
         {
-            "title":"5",
-            "technologies":"Technnologies Used: IBM-Watson, Android",
-            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
-                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+            "title":"Instant Identifier",
+            "technologies":"Technnologies Used: Node.js, Google Cloud Platform-Vision API, JS, HTML, CSS",
+            "description": ["Created a Chrome Plugin detects face/people/objects instantly and returns the description of matched identity with a short blurb from Wikipedia right within browser.",
+                            "Presented the project Err_404 State Level Hackathon, Mumbai sponsored by Intel to secure 3rd place."],
+            "link": "https://github.com/sarthakdadhakar/Instant-Identifier"
         },
         {
-            "title":"5",
-            "technologies":"Technnologies Used: IBM-Watson, Android",
-            "description": ["Implemented a smart assistant AI – Meetify, which keeps track of the meeting.",
-                            " It continuously listens to conversation and performs voice diarization and returns the transcript along with sentimental analysis using IBM Watson."]
+            "title":"Personal Chef ",
+            "technologies":"Technnologies Used: Android, API.AI, Node.js",
+            "description": ["Created an Android based AI Personal Assistant Chatbot who does not let you waste food by recommending recipes along with details like nutrition content and ratings provided by users.",
+                            "Secured 2nd runner up place at Mumbai Hackathon 2017 for this project."],
+            "link": "https://github.com/sarthakdadhakar/Personal-Chef"
         }
     ]
 }

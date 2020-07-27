@@ -2,13 +2,13 @@
     "education":[
 
         {
-            "name":"University of Southern Califronia",
+            "name":"Viterbi School of Engineering - University of Southern Califronia",
             "course":"Master of Science - Computer Science",
             "logo": "../../../assets/USC.png",
             "grade": "GPA 3.68/4"
         },
         {
-            "name":"Vivekanand Education Society's Institute of Technology",
+            "name":"Vivekanand Education Society's Institute of Technology - University of Mumbai",
             "course":"Bachelor of Engineering - Computer Engineering",
             "logo": "../../../assets/VESIT.png",
             "grade": "CGPI: 9.47/10"
