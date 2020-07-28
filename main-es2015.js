@@ -826,7 +826,7 @@ ProjectsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! exports provided: education, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"education\":[{\"name\":\"Viterbi School of Engineering - University of Southern Califronia\",\"course\":\"Master of Science - Computer Science\",\"logo\":\"../../../assets/USC.png\",\"grade\":\"GPA 3.68/4\"},{\"name\":\"Vivekanand Education Society's Institute of Technology - University of Mumbai\",\"course\":\"Bachelor of Engineering - Computer Engineering\",\"logo\":\"../../../assets/VESIT.png\",\"grade\":\"CGPI: 9.47/10\"},{\"name\":\"Government Polytechnic Mumbai\",\"course\":\"Diploma in Computer Engineering\",\"logo\":\"../../../assets/GPM.png\",\"grade\":\"Aggregate Percentage: 92.96%\"}]}");
+module.exports = JSON.parse("{\"education\":[{\"name\":\"Viterbi School of Engineering - University of Southern California\",\"course\":\"Master of Science - Computer Science\",\"logo\":\"../../../assets/USC.png\",\"grade\":\"GPA 3.68/4\"},{\"name\":\"Vivekanand Education Society's Institute of Technology - University of Mumbai\",\"course\":\"Bachelor of Engineering - Computer Engineering\",\"logo\":\"../../../assets/VESIT.png\",\"grade\":\"CGPI: 9.47/10\"},{\"name\":\"Government Polytechnic Mumbai\",\"course\":\"Diploma in Computer Engineering\",\"logo\":\"../../../assets/GPM.png\",\"grade\":\"Aggregate Percentage: 92.96%\"}]}");
 
 /***/ }),
 
