@@ -1,0 +1,25 @@
+{
+    "experience":[
+
+        {
+            "name":"Beckman Coulter Inc.",
+            "role":"Software Development Intern - Software R&D",
+            "logo": "../../../assets/beckman_logo.svg",
+            "duration": "May 2020 - August 2020",
+            "description": ["Developed and deployed an Automated Event Auditing system in a CI/CD environment to track user activities to help maintain a common log across all the applications in the environment.",
+                "Built a REST API using MySQL, Spring Boot, Hibernate for the Auditing System.",
+                "Designed a Graph User Interface for Data Visualization of medical devices data by leveraging React JS, Webpack, Babel using JavaScript based Libraries like d3.js and Plotly.js."]
+        },
+        {
+            "name":"IEEE Student Chapter VESIT",
+            "role":"Jr. Web Developer",
+            "logo": "../../../assets/ieee.png",
+            "duration": "August 2017 - April 2018",
+            "description": ["Developed Web Apps using Angular, HTML, CSS, JS, MySQL, PHP.",
+                "Developed Android Applications and worked with REST APIs and Firebase.",
+                "Conducted 4 Android and Firebase Workshops involving around 60 students."]
+        }
+    ]
+        
+
+}
