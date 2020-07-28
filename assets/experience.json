@@ -15,9 +15,9 @@
             "role":"Jr. Web Developer",
             "logo": "../../../assets/ieee.png",
             "duration": "August 2017 - April 2018",
-            "description": ["Developed Web Apps using Angular, HTML, CSS, JS, MySQL, PHP.",
-                "Developed Android Applications and worked with REST APIs and Firebase.",
-                "Conducted 4 Android and Firebase Workshops involving around 60 students."]
+            "description": ["Developed Web Apps using Angular, HTML, CSS, JS, MySQL, PHP for themed events not only limited to Online Treasure Hunt - Web Based Game, Quizzard - Multi player Tech quiz",
+                "Developed Android Applications and worked with REST APIs and Firebase for event registeration, managing and keeping track of the members enrolled in the IEEE-VESIT society..",
+                "Conducted 4 Android and Firebase Workshops involving around 60 students and covered topics right from scratch like building UI to using Firebase Google Sign in."]
         }
     ]
         
