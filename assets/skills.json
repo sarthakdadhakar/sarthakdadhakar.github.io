@@ -1,0 +1,47 @@
+{
+    "skills":
+    [
+        {
+            "domain": "Languages",
+            "image": "../../../assets/usc.png",
+            "values": ["Java", "Python", "C++", "C"],
+            "images": ["java.png", "python.png", "cpp.png", "c.png"]
+        },
+        {
+            "domain": "Web Development",
+            "image": "../../../assets/usc.png",
+            "values": ["JavaScript", "HTML", "CSS", "Bootstrap", "React.js", "Angular", "Node.js", "Flask", "Webpack", "PHP"],
+            "images": ["js.png", "html.png", "react.png", "angular.png", "nodejs.jpg", "webpack.png", "flask.png","php.jpg"]
+        },
+        {
+            "domain": "Databases",
+            "image": "../../../assets/usc.png",
+            "values" : ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "SQLite", "Oracle 11g"],
+            "images": ["mysql.png", "postgresql.png", "mongodb.png", "firebase.png", "sqlite.png", "sql.png"]
+        },
+        {
+            "domain": "Data Visualization",
+            "image": "../../../assets/usc.png",
+            "values": ["D3.js", "Plotly.js", "Tableau"],
+            "images": ["d3.png", "plotly.png", "tableau.jpg"]
+        },
+        {
+            "domain": "Data Science",
+            "image": "../../../assets/usc.png",
+            "values": ["Keras", "Tensorflow", "Scikit-learn", "Microsoft CNTK", "NLTK", "OpenCV"],
+            "images": ["keras.png", "tensorflow.png", "scikit.png", "nltk.png", "opencv.png"]
+        },
+        {
+            "domain": "Mobile Technologies",
+            "image": "../../../assets/usc.png",
+            "values": ["Android"],
+            "images": ["android.jpg"]
+        },
+        {
+            "domain": "Other Technologies",
+            "image": "../../../assets/usc.png",
+            "values": ["Google Cloud Platform", "Amazon Web Services", "Tomcat", "Git"],
+            "images": ["gcp.png", "aws.jpg", "git.png", "tomcat.png"]
+        }
+    ]
+}
